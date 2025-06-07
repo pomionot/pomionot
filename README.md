@@ -1,4 +1,4 @@
-## Hi there 👋
+## 神奈川工科大学3年 皆川 七音です！
 
 <!--
 **pomionot/pomionot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
